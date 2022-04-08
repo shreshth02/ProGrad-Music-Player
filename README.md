@@ -9,3 +9,4 @@ Figma Design : https://www.figma.com/proto/LQIg19jhF7zVW6t1N78HTd/Music-Player?n
 Below is an example screenshot of the Web-Application:
 
 ![image](https://user-images.githubusercontent.com/67462416/162369718-f1acb922-57b6-4aad-af6f-2cba285cf0da.png)
+ 
